@@ -1,1 +1,1 @@
-This sentence for the testing by 'Beyond Compare'
+This sentence was build for the testing by 'Beyond Compare'
