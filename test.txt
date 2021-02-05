@@ -1,1 +1,2 @@
 This sentence for the testing of 'Beyond Compare'
+After previous change + 1 add
